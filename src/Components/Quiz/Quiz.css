@@ -39,12 +39,6 @@
     transition: all 0.3s;
 }
 
-.container ul li:hover{
-    background: #707070;
-    color:#fff;
-    filter: brightness(1.2);
-}
-
 .container button{
     margin:auto;
     width:150px;
